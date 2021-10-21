@@ -1,0 +1,5 @@
+('c:\\users\\user\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\eth_keys-0.3.3-py3.6.egg',
+ None,
+ {'*.cp36-win_amd64.pyd', '*.py', '*.pyw', '*.pyc', '*.pyd', 'EGG-INFO'},
+ 'DATA',
+ [])
